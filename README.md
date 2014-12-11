@@ -1,4 +1,0 @@
-UdacityFrontEnd
-===============
-
-Udacity Frontend Nanodegree
